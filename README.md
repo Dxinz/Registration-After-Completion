@@ -1,4 +1,4 @@
-# RegistrationAfterCompletion
+# Registration After Completion
 ## Introduction
 This repository contains the implementation of our RegistrationAfterCompletion:Towards Sparse and Partial Point Set Registration for Computer-Assisted Orthopedic Surgery
 ## Abstract

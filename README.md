@@ -1,6 +1,6 @@
 # Registration After Completion
 ## Introduction
-This repository contains the implementation of our RegistrationAfterCompletion:Towards Sparse and Partial Point Set Registration for Computer-Assisted Orthopedic Surgery
+This repository contains the implementation of our "Registration After Completion:Towards Sparse and Partial Point Set Registration for Computer-Assisted Orthopedic Surgery".
 ## Abstract
 In computer-assisted orthopedic surgery (CAOS), accurate point set registration is essential for enhancing surgical precision.
 However, the sparse and low-overlap nature of intraoperative point sets presents significant challenges for reliable registration.
